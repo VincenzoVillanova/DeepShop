@@ -3,7 +3,7 @@
 DeepShop is an intelligent chatbot that helps you choose the best products through advanced comparison tables. It analyzes features, prices, and reviews to provide personalized recommendations.
 
 ## Requirements
-- [LM-Studio](https://lm-studio.com/)
+- [LM-Studio](https://lmstudio.ai/)
 - Python 3.x
 - Dependencies specified in the `requirements.txt` file
 
