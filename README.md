@@ -1,38 +1,46 @@
-# DeepShop
+# 🛍️ DeepShop
 
-DeepShop is an intelligent chatbot that helps you choose the best products through advanced comparison tables. It analyzes features, prices, and reviews to provide personalized recommendations.
+DeepShop is an intelligent chatbot 🤖 that helps you choose the best products through advanced comparison tables. It analyzes features, prices, and reviews to provide personalized recommendations.✨
 
-## Requirements
-- [LM-Studio](https://lmstudio.ai/)
-- Python 3.x
-- Dependencies specified in the `requirements.txt` file
+## 📌 Requirements
+- [LM-Studio](https://lmstudio.ai/) 🚀
+- Python 3.x 🐍
+- Dependencies specified in the `requirements.txt` file 📂
 
-## Installation
-1. **Download and install LM-Studio**
+## 🔧 Installation
+1. **Download and install LM-Studio** 💾
    - Follow the instructions on the official LM-Studio website.
 
-2. **Clone the repository**
+2. **Download the model** 📥
+   - Download the `deepseek-r1-distill-llama-8b` model from LM-Studio's model hub.
+
+3. **Clone the repository** 🖥️
    ```sh
    git clone https://github.com/VincenzoVillanova/DeepShop.git
    cd DeepShop
    ```
 
-3. **Install dependencies**
+4. **Install dependencies** 📌
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Run the chatbot**
+5. **Configure LM-Studio** ⚙️
+   - Load the `deepseek-r1-distill-llama-8b` model into LM-Studio.
+   - Copy the contents of the `prompt.txt` file into the system prompt of the chatbot within LM-Studio.
+   - Start the model in local mode. 🚀
+
+6. **Run the chatbot** ▶️
    ```sh
    python deep_shop.py
    ```
 
-## Configuration
-Make sure LM-Studio is running and properly configured to support DeepShop.
+## ⚙️ Configuration
+Make sure LM-Studio is running with the `deepseek-r1-distill-llama-8b` model loaded and properly configured to support DeepShop. Ensure the `prompt.txt` file is set as the system prompt for optimal performance. ✅
 
-## Usage
-Interact with the chatbot to receive shopping recommendations based on intelligent comparison tables.
+## 💡 Usage
+Interact with the chatbot to receive shopping recommendations based on intelligent comparison tables. 🛒
 
-## License
-This project is distributed under the MIT license. For more details, see the `LICENSE` file.
+## 📜 License
+This project is distributed under the MIT license. For more details, see the `LICENSE` file. 📄
 
