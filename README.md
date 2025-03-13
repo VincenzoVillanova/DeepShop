@@ -1,4 +1,8 @@
 # 🛍️ DeepShop
+![Chatbot](https://img.shields.io/badge/Chatbot-Intelligent-blue?style=for-the-badge&logo=chatbot)
+![lm-studio](https://img.shields.io/badge/lm--studio-purple?style=for-the-badge&logo=🤖)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 
 DeepShop is an intelligent chatbot 🤖 that helps you choose the best products through advanced comparison tables. It analyzes features, prices, and reviews to provide personalized recommendations.✨
 
@@ -43,4 +47,3 @@ Interact with the chatbot to receive shopping recommendations based on intellige
 
 ## 📜 License
 This project is distributed under the MIT license. For more details, see the `LICENSE` file. 📄
-
