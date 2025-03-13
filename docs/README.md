@@ -1,8 +1,8 @@
 # 🛍️ DeepShop
-![Chatbot](https://img.shields.io/badge/Chatbot-Intelligent-blue?style=for-the-badge&logo=chatbot)
-![LM-Studio](https://img.shields.io/badge/LM--Studio-AI-darkviolet?style=for-the-badge&logo=🤖)
-![Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit)  
-![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Chatbot](https://img.shields.io/badge/Chatbot-Intelligent-blue?style=for-the-badge&logo=chatbot) 
+![LM-Studio](https://img.shields.io/badge/LM--Studio-AI-darkviolet?style=for-the-badge&logo=🤖) 
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit) 
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python&logoColor=white) 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
 
 DeepShop is an intelligent chatbot 🤖 that helps you choose the best products through advanced comparison tables. It analyzes features, prices, and reviews to provide personalized recommendations.✨
