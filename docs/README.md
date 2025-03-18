@@ -57,7 +57,7 @@ DeepShop/
 │   └── deep_shop.py        
 │
 ├── data/                  
-│   └── promt.txt           
+│   └── prompt.txt           
 │
 ├── docs/                  
 │   ├── README.md           
