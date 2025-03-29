@@ -37,7 +37,7 @@ DeepShop is an intelligent chatbot 🤖 that helps you choose the best products 
 
 6. **Run the chatbot** ▶️
    ```sh
-   python deep_shop.py
+   streamlit run deep_shop.py
    ```
 
 ## ⚙️ Configuration
